@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-08T04:14:30Z" name="Default suite" finished-at="2022-11-08T04:15:33Z" duration-ms="63223">
+    <groups>
+    </groups>
+    <test started-at="2022-11-08T04:14:30Z" name="Default test" finished-at="2022-11-08T04:15:33Z" duration-ms="63223">
+      <class name="selenium_casestudy1.task_Selenium">
+        <test-method is-config="true" signature="newadministration()[pri:0, instance:selenium_casestudy1.task_Selenium@3697186]" started-at="2022-11-08T09:44:30Z" name="newadministration" finished-at="2022-11-08T09:44:57Z" duration-ms="27435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newadministration -->
+        <test-method signature="TestCase2()[pri:0, instance:selenium_casestudy1.task_Selenium@3697186]" started-at="2022-11-08T09:44:57Z" name="TestCase2" finished-at="2022-11-08T09:45:21Z" duration-ms="23594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="TestCase3()[pri:0, instance:selenium_casestudy1.task_Selenium@3697186]" started-at="2022-11-08T09:45:21Z" name="TestCase3" finished-at="2022-11-08T09:45:33Z" duration-ms="12099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+      </class> <!-- selenium_casestudy1.task_Selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
